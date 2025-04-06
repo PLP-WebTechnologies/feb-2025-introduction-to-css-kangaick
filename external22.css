@@ -1,0 +1,20 @@
+p{   
+    color : rgb(32, 32, 170);
+    font-style: oblique;
+    }
+
+    .highlight{
+        color:hotpink
+
+    }
+
+    #para1{
+
+        text-align:left;
+        color: brown;
+    }
+
+    h1,h2{
+        outline-color: burlywood;
+
+    }
